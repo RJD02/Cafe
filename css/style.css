@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+.img-fluid {
+    height: 95vh;
+}
+
+.container h1 {
+    align-self: center;
+}
+
+.talk {
+    height: 200px;
+}
+
+.theme-color {
+    background-color: #F94144;
+}
+
+/* .carousel-caption {
+    position: relative;
+    bottom: 20rem;
+    left: 2rem;
+} */
+
+/* .carousel-caption:nth-of-type(1) {
+    color: #277DA1;
+} */
