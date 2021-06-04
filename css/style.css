@@ -1,18 +1,48 @@
-
-.img-fluid {
-    height: 95vh;
+.carousel-img {
+  height: 100vh;
 }
 
 .container h1 {
-    align-self: center;
+  align-self: center;
 }
 
 .talk {
-    height: 200px;
+  height: 200px;
 }
 
 .theme-color {
-    background-color: #F94144;
+  background-color: #f94144;
+}
+
+.card {
+  transition: all 0.5s;
+}
+
+.card:hover {
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+  transform: scale(1.1);
+}
+
+.footer {
+    background-color: #577590;
+}
+/* f9844a */
+.footer h3 a{
+    color: #fff;
+}
+
+.footer-link {
+    color: #F9844A;
+    transition: color 0.4s;
+}
+
+.footer-link:hover {
+    color: #F9C74F;
+}
+
+.footer-link-icon {
+    color: #90BE6D;
+    /* text-decoration: none; */
 }
 
 /* .carousel-caption {
