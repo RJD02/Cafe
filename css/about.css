@@ -1,0 +1,12 @@
+.head {
+  background: #ff416c; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to left,
+    #ff4b2b,
+    #ff416c
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  height: 30vh;
+  border-radius: 0 0 0 40%;
+  color: #fff;
+  transition: background-color 2s, color 2s ease-in;
+}
