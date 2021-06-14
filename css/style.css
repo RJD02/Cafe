@@ -33,6 +33,7 @@
 
 .footer-link {
     color: #fad586;
+    text-transform: uppercase;
     transition: color 0.4s;
 }
 
